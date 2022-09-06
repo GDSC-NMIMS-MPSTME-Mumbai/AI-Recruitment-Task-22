@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/GDSC-NMIMS-MPSTME-Mumbai/AI-Recruitment-Task-22/PATH_TO_IMAGE)
+![](https://raw.githubusercontent.com/GDSC-NMIMS-MPSTME-Mumbai/AI-Recruitment-Task-22/main/GDSC%20MPSTME%20logo.png)
 ### Welcome to the AI Recruitment Task!
 
 Here we will be assessing your logical reasoning and knowledge of AI and most importantly your willingness to learn. 
