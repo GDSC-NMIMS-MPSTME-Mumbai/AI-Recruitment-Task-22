@@ -39,7 +39,7 @@ Implement a function `StringManipulation(str)`, that accepts a string as the `st
 
 **Question 2**
 
-Use the linked [Titanic dataset]() to answer the following questions using python code:
+Use the linked [Titanic dataset](https://github.com/GDSC-NMIMS-MPSTME-Mumbai/AI-Recruitment-Task-22/blob/49b07b1dce2c660f47ff37dce55790d16a5b4b91/titanic.csv) to answer the following questions using python code:
    
    1. **Display only the numeric columns.**
    2. **Remove the null values from column ‘Age’, ‘Fare’.**
