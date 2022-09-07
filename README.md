@@ -18,7 +18,7 @@ Implement a function `StringManipulation(str)`, that accepts a string as the `st
    2. The string is **inverted after removing all vowels**. _(Reminder: Don't alter the alphabets' case)_
    3. The string has **every alternate character** from the original string _(e.g. for an input “abcdefg”, the output string would be “aceg”)_
    
-   Print every output separately and label them appropriately. You may use any programming language to solve this question.
+   Print every output separately and label them appropriately. **You must use python to solve this question.**
    
    Sample Input:
    
